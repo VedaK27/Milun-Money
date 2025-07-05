@@ -37,11 +37,31 @@ Visualize your expenses, track spending categories, and optimize your budget wit
 | Backend       | Node.js, Express.js            |
 | Database      | MongoDB, Mongoose              |
 | Auth          | JWT                            |
-| Deployment    | MongoDB Atlas, Render/Vercel   |
+| Deployment    | MongoDB Atlas   |
 | APIs          | Axios                          |
 | Charts        | Victory Native / Recharts      |
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧪 Getting Started Locally
+
+### 🔧 Prerequisites
+
+- Node.js and npm
+- MongoDB or MongoDB Atlas
+- Expo CLI (if using Expo)
+- React Native CLI (optional)
+
+---
+
+### 🚀 Backend Setup
+
+```bash
+cd server
+npm install
+npm run dev   # Runs on http://localhost:5000
+
 
